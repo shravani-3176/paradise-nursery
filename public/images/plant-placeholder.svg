@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a potted green plant">
+  <rect width="800" height="600" fill="#e8ede3"/>
+  <path d="M398 415c-5-81 2-176 9-246" fill="none" stroke="#527459" stroke-width="12" stroke-linecap="round"/>
+  <path d="M402 290c-91 2-137-53-111-112 64 7 107 46 111 112Zm7-74c7-91 60-139 122-120-15 65-57 108-122 120Zm-5 131c-91-3-135-54-105-112 64 8 104 48 105 112Zm7-81c12-72 56-108 108-89-12 51-51 81-108 89Z" fill="#78916f"/>
+  <path d="M329 414h158l-20 132H349z" fill="#bd9875"/>
+  <path d="M320 407h176v23H320z" fill="#a87f5e"/>
+  <ellipse cx="408" cy="555" rx="126" ry="13" fill="#d4ddce"/>
+</svg>
